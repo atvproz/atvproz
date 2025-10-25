@@ -8,6 +8,7 @@
 💬 Ask me about: 
  - **Cisco**
  - **Nokia**
+ - **Aruba Wirless Controllers**
  - **DevOps**
 
 <h3 align="left">Languages and Tools:</h3>
